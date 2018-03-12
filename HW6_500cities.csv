@@ -1,0 +1,501 @@
+City_ID,City_Name,City_Weather_URL
+6557228,Rückholz,http://api.openweathermap.org/data/2.5/weather?id=6557228&APPID=6fb692f7f116da3300853ca46962f8b5
+5195550,Johnsonburg,http://api.openweathermap.org/data/2.5/weather?id=5195550&APPID=6fb692f7f116da3300853ca46962f8b5
+4595864,Simpsonville,http://api.openweathermap.org/data/2.5/weather?id=4595864&APPID=6fb692f7f116da3300853ca46962f8b5
+6357219,Encinas Reales,http://api.openweathermap.org/data/2.5/weather?id=6357219&APPID=6fb692f7f116da3300853ca46962f8b5
+2967628,Vouneuil-sous-Biard,http://api.openweathermap.org/data/2.5/weather?id=2967628&APPID=6fb692f7f116da3300853ca46962f8b5
+2620223,Hjerting,http://api.openweathermap.org/data/2.5/weather?id=2620223&APPID=6fb692f7f116da3300853ca46962f8b5
+2814181,Wanzleben,http://api.openweathermap.org/data/2.5/weather?id=2814181&APPID=6fb692f7f116da3300853ca46962f8b5
+2822601,Thüle,http://api.openweathermap.org/data/2.5/weather?id=2822601&APPID=6fb692f7f116da3300853ca46962f8b5
+2808110,Windorf,http://api.openweathermap.org/data/2.5/weather?id=2808110&APPID=6fb692f7f116da3300853ca46962f8b5
+2861038,Oberdurenbach,http://api.openweathermap.org/data/2.5/weather?id=2861038&APPID=6fb692f7f116da3300853ca46962f8b5
+2976429,Saligny-sur-Roudon,http://api.openweathermap.org/data/2.5/weather?id=2976429&APPID=6fb692f7f116da3300853ca46962f8b5
+6359929,Gijón,http://api.openweathermap.org/data/2.5/weather?id=6359929&APPID=6fb692f7f116da3300853ca46962f8b5
+6556126,Königsdorf,http://api.openweathermap.org/data/2.5/weather?id=6556126&APPID=6fb692f7f116da3300853ca46962f8b5
+2876147,Lohr,http://api.openweathermap.org/data/2.5/weather?id=2876147&APPID=6fb692f7f116da3300853ca46962f8b5
+4279474,Smith Center,http://api.openweathermap.org/data/2.5/weather?id=4279474&APPID=6fb692f7f116da3300853ca46962f8b5
+2610155,Virum,http://api.openweathermap.org/data/2.5/weather?id=2610155&APPID=6fb692f7f116da3300853ca46962f8b5
+787928,Miravci,http://api.openweathermap.org/data/2.5/weather?id=787928&APPID=6fb692f7f116da3300853ca46962f8b5
+2875961,Loopstedt,http://api.openweathermap.org/data/2.5/weather?id=2875961&APPID=6fb692f7f116da3300853ca46962f8b5
+2656952,Ashfordby,http://api.openweathermap.org/data/2.5/weather?id=2656952&APPID=6fb692f7f116da3300853ca46962f8b5
+2885118,Kottingwörth,http://api.openweathermap.org/data/2.5/weather?id=2885118&APPID=6fb692f7f116da3300853ca46962f8b5
+408801,Al Mayfaah,http://api.openweathermap.org/data/2.5/weather?id=408801&APPID=6fb692f7f116da3300853ca46962f8b5
+4560233,Parkside,http://api.openweathermap.org/data/2.5/weather?id=4560233&APPID=6fb692f7f116da3300853ca46962f8b5
+3904221,Sipe Sipe,http://api.openweathermap.org/data/2.5/weather?id=3904221&APPID=6fb692f7f116da3300853ca46962f8b5
+2167425,Emerald,http://api.openweathermap.org/data/2.5/weather?id=2167425&APPID=6fb692f7f116da3300853ca46962f8b5
+2176329,Bellbird,http://api.openweathermap.org/data/2.5/weather?id=2176329&APPID=6fb692f7f116da3300853ca46962f8b5
+2913453,Gustebin,http://api.openweathermap.org/data/2.5/weather?id=2913453&APPID=6fb692f7f116da3300853ca46962f8b5
+692749,Stari Bohorodchany,http://api.openweathermap.org/data/2.5/weather?id=692749&APPID=6fb692f7f116da3300853ca46962f8b5
+2146293,Tooradin,http://api.openweathermap.org/data/2.5/weather?id=2146293&APPID=6fb692f7f116da3300853ca46962f8b5
+6432300,Martignas-sur-Jalle,http://api.openweathermap.org/data/2.5/weather?id=6432300&APPID=6fb692f7f116da3300853ca46962f8b5
+76147,Dhaybin,http://api.openweathermap.org/data/2.5/weather?id=76147&APPID=6fb692f7f116da3300853ca46962f8b5
+2741411,Carregal,http://api.openweathermap.org/data/2.5/weather?id=2741411&APPID=6fb692f7f116da3300853ca46962f8b5
+1783873,Zhumadian,http://api.openweathermap.org/data/2.5/weather?id=1783873&APPID=6fb692f7f116da3300853ca46962f8b5
+7871861,Grimmenstein,http://api.openweathermap.org/data/2.5/weather?id=7871861&APPID=6fb692f7f116da3300853ca46962f8b5
+733623,Asen,http://api.openweathermap.org/data/2.5/weather?id=733623&APPID=6fb692f7f116da3300853ca46962f8b5
+513426,Ozernyy,http://api.openweathermap.org/data/2.5/weather?id=513426&APPID=6fb692f7f116da3300853ca46962f8b5
+6294449,Binz,http://api.openweathermap.org/data/2.5/weather?id=6294449&APPID=6fb692f7f116da3300853ca46962f8b5
+2805641,Wursterheide,http://api.openweathermap.org/data/2.5/weather?id=2805641&APPID=6fb692f7f116da3300853ca46962f8b5
+6098930,Pascal,http://api.openweathermap.org/data/2.5/weather?id=6098930&APPID=6fb692f7f116da3300853ca46962f8b5
+5354171,Greenfield,http://api.openweathermap.org/data/2.5/weather?id=5354171&APPID=6fb692f7f116da3300853ca46962f8b5
+3125299,Cervera de los Montes,http://api.openweathermap.org/data/2.5/weather?id=3125299&APPID=6fb692f7f116da3300853ca46962f8b5
+2282827,Oume,http://api.openweathermap.org/data/2.5/weather?id=2282827&APPID=6fb692f7f116da3300853ca46962f8b5
+3526487,Jiquipilco,http://api.openweathermap.org/data/2.5/weather?id=3526487&APPID=6fb692f7f116da3300853ca46962f8b5
+2957826,Altenbergen,http://api.openweathermap.org/data/2.5/weather?id=2957826&APPID=6fb692f7f116da3300853ca46962f8b5
+2901509,Hohensaaten,http://api.openweathermap.org/data/2.5/weather?id=2901509&APPID=6fb692f7f116da3300853ca46962f8b5
+1693047,Pondaguitan,http://api.openweathermap.org/data/2.5/weather?id=1693047&APPID=6fb692f7f116da3300853ca46962f8b5
+4901015,Manteno,http://api.openweathermap.org/data/2.5/weather?id=4901015&APPID=6fb692f7f116da3300853ca46962f8b5
+3086010,Siemkowice,http://api.openweathermap.org/data/2.5/weather?id=3086010&APPID=6fb692f7f116da3300853ca46962f8b5
+8125829,Kamigyo-ku,http://api.openweathermap.org/data/2.5/weather?id=8125829&APPID=6fb692f7f116da3300853ca46962f8b5
+2646963,High Etherley,http://api.openweathermap.org/data/2.5/weather?id=2646963&APPID=6fb692f7f116da3300853ca46962f8b5
+3118161,Lodosa,http://api.openweathermap.org/data/2.5/weather?id=3118161&APPID=6fb692f7f116da3300853ca46962f8b5
+3463326,Firminopolis,http://api.openweathermap.org/data/2.5/weather?id=3463326&APPID=6fb692f7f116da3300853ca46962f8b5
+4106074,Clinton,http://api.openweathermap.org/data/2.5/weather?id=4106074&APPID=6fb692f7f116da3300853ca46962f8b5
+3220941,Regierungsbezirk Gießen,http://api.openweathermap.org/data/2.5/weather?id=3220941&APPID=6fb692f7f116da3300853ca46962f8b5
+761968,Pobitno,http://api.openweathermap.org/data/2.5/weather?id=761968&APPID=6fb692f7f116da3300853ca46962f8b5
+6362098,Sollana,http://api.openweathermap.org/data/2.5/weather?id=6362098&APPID=6fb692f7f116da3300853ca46962f8b5
+8014644,Paredes da Beira,http://api.openweathermap.org/data/2.5/weather?id=8014644&APPID=6fb692f7f116da3300853ca46962f8b5
+5127179,Minoa,http://api.openweathermap.org/data/2.5/weather?id=5127179&APPID=6fb692f7f116da3300853ca46962f8b5
+4553073,Tillman County,http://api.openweathermap.org/data/2.5/weather?id=4553073&APPID=6fb692f7f116da3300853ca46962f8b5
+6557263,Westerheim,http://api.openweathermap.org/data/2.5/weather?id=6557263&APPID=6fb692f7f116da3300853ca46962f8b5
+6942802,Inkerman,http://api.openweathermap.org/data/2.5/weather?id=6942802&APPID=6fb692f7f116da3300853ca46962f8b5
+3095330,Koniecpol,http://api.openweathermap.org/data/2.5/weather?id=3095330&APPID=6fb692f7f116da3300853ca46962f8b5
+2943697,Brotterode,http://api.openweathermap.org/data/2.5/weather?id=2943697&APPID=6fb692f7f116da3300853ca46962f8b5
+3533473,Acamixtla,http://api.openweathermap.org/data/2.5/weather?id=3533473&APPID=6fb692f7f116da3300853ca46962f8b5
+3853756,Ingenio San Pablo,http://api.openweathermap.org/data/2.5/weather?id=3853756&APPID=6fb692f7f116da3300853ca46962f8b5
+2780260,Eichfeld,http://api.openweathermap.org/data/2.5/weather?id=2780260&APPID=6fb692f7f116da3300853ca46962f8b5
+6432666,Sussargues,http://api.openweathermap.org/data/2.5/weather?id=6432666&APPID=6fb692f7f116da3300853ca46962f8b5
+2871042,Mindelstetten,http://api.openweathermap.org/data/2.5/weather?id=2871042&APPID=6fb692f7f116da3300853ca46962f8b5
+5393287,Santa Rosa,http://api.openweathermap.org/data/2.5/weather?id=5393287&APPID=6fb692f7f116da3300853ca46962f8b5
+7871607,Oberpullendorf,http://api.openweathermap.org/data/2.5/weather?id=7871607&APPID=6fb692f7f116da3300853ca46962f8b5
+7409942,Suradi Selatan,http://api.openweathermap.org/data/2.5/weather?id=7409942&APPID=6fb692f7f116da3300853ca46962f8b5
+8133827,Dimos Komotini,http://api.openweathermap.org/data/2.5/weather?id=8133827&APPID=6fb692f7f116da3300853ca46962f8b5
+3091598,Mnikow,http://api.openweathermap.org/data/2.5/weather?id=3091598&APPID=6fb692f7f116da3300853ca46962f8b5
+4153132,Delray Beach,http://api.openweathermap.org/data/2.5/weather?id=4153132&APPID=6fb692f7f116da3300853ca46962f8b5
+7602434,Schiersfeld,http://api.openweathermap.org/data/2.5/weather?id=7602434&APPID=6fb692f7f116da3300853ca46962f8b5
+2619844,Horve,http://api.openweathermap.org/data/2.5/weather?id=2619844&APPID=6fb692f7f116da3300853ca46962f8b5
+2832371,Siemerode,http://api.openweathermap.org/data/2.5/weather?id=2832371&APPID=6fb692f7f116da3300853ca46962f8b5
+4111673,Freeman (historical),http://api.openweathermap.org/data/2.5/weather?id=4111673&APPID=6fb692f7f116da3300853ca46962f8b5
+2988814,Paillange,http://api.openweathermap.org/data/2.5/weather?id=2988814&APPID=6fb692f7f116da3300853ca46962f8b5
+1128186,Ru-ye Sang,http://api.openweathermap.org/data/2.5/weather?id=1128186&APPID=6fb692f7f116da3300853ca46962f8b5
+3163948,Vomero,http://api.openweathermap.org/data/2.5/weather?id=3163948&APPID=6fb692f7f116da3300853ca46962f8b5
+2829999,Sprockhof,http://api.openweathermap.org/data/2.5/weather?id=2829999&APPID=6fb692f7f116da3300853ca46962f8b5
+6614351,Saint-Lô-d'Ourville,http://api.openweathermap.org/data/2.5/weather?id=6614351&APPID=6fb692f7f116da3300853ca46962f8b5
+2649366,Fishponds,http://api.openweathermap.org/data/2.5/weather?id=2649366&APPID=6fb692f7f116da3300853ca46962f8b5
+3404766,Buique,http://api.openweathermap.org/data/2.5/weather?id=3404766&APPID=6fb692f7f116da3300853ca46962f8b5
+474926,Verkhniy Lomov,http://api.openweathermap.org/data/2.5/weather?id=474926&APPID=6fb692f7f116da3300853ca46962f8b5
+3033294,Bernes-sur-Oise,http://api.openweathermap.org/data/2.5/weather?id=3033294&APPID=6fb692f7f116da3300853ca46962f8b5
+3473267,Abaete,http://api.openweathermap.org/data/2.5/weather?id=3473267&APPID=6fb692f7f116da3300853ca46962f8b5
+6535193,Castrezzato,http://api.openweathermap.org/data/2.5/weather?id=6535193&APPID=6fb692f7f116da3300853ca46962f8b5
+5122833,Johnstown,http://api.openweathermap.org/data/2.5/weather?id=5122833&APPID=6fb692f7f116da3300853ca46962f8b5
+617501,Raionul Rezina,http://api.openweathermap.org/data/2.5/weather?id=617501&APPID=6fb692f7f116da3300853ca46962f8b5
+3028541,Arrondissement de Carpentras,http://api.openweathermap.org/data/2.5/weather?id=3028541&APPID=6fb692f7f116da3300853ca46962f8b5
+4618507,Dodson Branch,http://api.openweathermap.org/data/2.5/weather?id=4618507&APPID=6fb692f7f116da3300853ca46962f8b5
+3403200,Capela,http://api.openweathermap.org/data/2.5/weather?id=3403200&APPID=6fb692f7f116da3300853ca46962f8b5
+6552857,Wiefelstede,http://api.openweathermap.org/data/2.5/weather?id=6552857&APPID=6fb692f7f116da3300853ca46962f8b5
+2031403,Erdenetsogt,http://api.openweathermap.org/data/2.5/weather?id=2031403&APPID=6fb692f7f116da3300853ca46962f8b5
+2748329,Randwijk,http://api.openweathermap.org/data/2.5/weather?id=2748329&APPID=6fb692f7f116da3300853ca46962f8b5
+6448861,Cagnotte,http://api.openweathermap.org/data/2.5/weather?id=6448861&APPID=6fb692f7f116da3300853ca46962f8b5
+1801970,Luodian,http://api.openweathermap.org/data/2.5/weather?id=1801970&APPID=6fb692f7f116da3300853ca46962f8b5
+3093394,Linia,http://api.openweathermap.org/data/2.5/weather?id=3093394&APPID=6fb692f7f116da3300853ca46962f8b5
+706466,Khartsyzsk,http://api.openweathermap.org/data/2.5/weather?id=706466&APPID=6fb692f7f116da3300853ca46962f8b5
+1493523,Rostovka,http://api.openweathermap.org/data/2.5/weather?id=1493523&APPID=6fb692f7f116da3300853ca46962f8b5
+2811022,Wenze,http://api.openweathermap.org/data/2.5/weather?id=2811022&APPID=6fb692f7f116da3300853ca46962f8b5
+3122452,Figueras,http://api.openweathermap.org/data/2.5/weather?id=3122452&APPID=6fb692f7f116da3300853ca46962f8b5
+308221,Kemer,http://api.openweathermap.org/data/2.5/weather?id=308221&APPID=6fb692f7f116da3300853ca46962f8b5
+3685200,Distraccion,http://api.openweathermap.org/data/2.5/weather?id=3685200&APPID=6fb692f7f116da3300853ca46962f8b5
+3108131,Terroba,http://api.openweathermap.org/data/2.5/weather?id=3108131&APPID=6fb692f7f116da3300853ca46962f8b5
+2087894,Rabaul,http://api.openweathermap.org/data/2.5/weather?id=2087894&APPID=6fb692f7f116da3300853ca46962f8b5
+2792413,Liege,http://api.openweathermap.org/data/2.5/weather?id=2792413&APPID=6fb692f7f116da3300853ca46962f8b5
+3130077,Andés,http://api.openweathermap.org/data/2.5/weather?id=3130077&APPID=6fb692f7f116da3300853ca46962f8b5
+3204816,Andrijevica,http://api.openweathermap.org/data/2.5/weather?id=3204816&APPID=6fb692f7f116da3300853ca46962f8b5
+2989058,Oudon,http://api.openweathermap.org/data/2.5/weather?id=2989058&APPID=6fb692f7f116da3300853ca46962f8b5
+3175786,Grosseto,http://api.openweathermap.org/data/2.5/weather?id=3175786&APPID=6fb692f7f116da3300853ca46962f8b5
+2028972,Tavin,http://api.openweathermap.org/data/2.5/weather?id=2028972&APPID=6fb692f7f116da3300853ca46962f8b5
+3556969,Holguin,http://api.openweathermap.org/data/2.5/weather?id=3556969&APPID=6fb692f7f116da3300853ca46962f8b5
+5005247,Pellston,http://api.openweathermap.org/data/2.5/weather?id=5005247&APPID=6fb692f7f116da3300853ca46962f8b5
+3026748,Chappes,http://api.openweathermap.org/data/2.5/weather?id=3026748&APPID=6fb692f7f116da3300853ca46962f8b5
+5112398,Chenango County,http://api.openweathermap.org/data/2.5/weather?id=5112398&APPID=6fb692f7f116da3300853ca46962f8b5
+8067634,Kutaraja,http://api.openweathermap.org/data/2.5/weather?id=8067634&APPID=6fb692f7f116da3300853ca46962f8b5
+1638030,Lemito,http://api.openweathermap.org/data/2.5/weather?id=1638030&APPID=6fb692f7f116da3300853ca46962f8b5
+2591272,Lukole,http://api.openweathermap.org/data/2.5/weather?id=2591272&APPID=6fb692f7f116da3300853ca46962f8b5
+6357436,Fuente de Pedro Naharro,http://api.openweathermap.org/data/2.5/weather?id=6357436&APPID=6fb692f7f116da3300853ca46962f8b5
+672525,Namoloasa-Sat,http://api.openweathermap.org/data/2.5/weather?id=672525&APPID=6fb692f7f116da3300853ca46962f8b5
+6450317,Biollet,http://api.openweathermap.org/data/2.5/weather?id=6450317&APPID=6fb692f7f116da3300853ca46962f8b5
+1217926,Oqtosh,http://api.openweathermap.org/data/2.5/weather?id=1217926&APPID=6fb692f7f116da3300853ca46962f8b5
+288712,Bilād aş Şūr,http://api.openweathermap.org/data/2.5/weather?id=288712&APPID=6fb692f7f116da3300853ca46962f8b5
+5219003,Westmont,http://api.openweathermap.org/data/2.5/weather?id=5219003&APPID=6fb692f7f116da3300853ca46962f8b5
+1642628,Jekulo,http://api.openweathermap.org/data/2.5/weather?id=1642628&APPID=6fb692f7f116da3300853ca46962f8b5
+2913290,Gutzkow,http://api.openweathermap.org/data/2.5/weather?id=2913290&APPID=6fb692f7f116da3300853ca46962f8b5
+553271,Kamyshla,http://api.openweathermap.org/data/2.5/weather?id=553271&APPID=6fb692f7f116da3300853ca46962f8b5
+3087744,Psary,http://api.openweathermap.org/data/2.5/weather?id=3087744&APPID=6fb692f7f116da3300853ca46962f8b5
+6553754,Herresbach,http://api.openweathermap.org/data/2.5/weather?id=6553754&APPID=6fb692f7f116da3300853ca46962f8b5
+1802315,Longwo,http://api.openweathermap.org/data/2.5/weather?id=1802315&APPID=6fb692f7f116da3300853ca46962f8b5
+3178887,Chialamberto,http://api.openweathermap.org/data/2.5/weather?id=3178887&APPID=6fb692f7f116da3300853ca46962f8b5
+7261968,New Kingman-Butler,http://api.openweathermap.org/data/2.5/weather?id=7261968&APPID=6fb692f7f116da3300853ca46962f8b5
+1265220,Lakhyabad,http://api.openweathermap.org/data/2.5/weather?id=1265220&APPID=6fb692f7f116da3300853ca46962f8b5
+7286087,Hinwil,http://api.openweathermap.org/data/2.5/weather?id=7286087&APPID=6fb692f7f116da3300853ca46962f8b5
+2925120,Freiham,http://api.openweathermap.org/data/2.5/weather?id=2925120&APPID=6fb692f7f116da3300853ca46962f8b5
+6430047,Vieux-Charmont,http://api.openweathermap.org/data/2.5/weather?id=6430047&APPID=6fb692f7f116da3300853ca46962f8b5
+2989430,Orcet,http://api.openweathermap.org/data/2.5/weather?id=2989430&APPID=6fb692f7f116da3300853ca46962f8b5
+2939921,Collinghorst,http://api.openweathermap.org/data/2.5/weather?id=2939921&APPID=6fb692f7f116da3300853ca46962f8b5
+8060966,Trambalan,http://api.openweathermap.org/data/2.5/weather?id=8060966&APPID=6fb692f7f116da3300853ca46962f8b5
+6550312,Cursdorf,http://api.openweathermap.org/data/2.5/weather?id=6550312&APPID=6fb692f7f116da3300853ca46962f8b5
+664891,Titu,http://api.openweathermap.org/data/2.5/weather?id=664891&APPID=6fb692f7f116da3300853ca46962f8b5
+443342,Kasese District,http://api.openweathermap.org/data/2.5/weather?id=443342&APPID=6fb692f7f116da3300853ca46962f8b5
+7034888,Bendosari,http://api.openweathermap.org/data/2.5/weather?id=7034888&APPID=6fb692f7f116da3300853ca46962f8b5
+2926671,Finsterwald,http://api.openweathermap.org/data/2.5/weather?id=2926671&APPID=6fb692f7f116da3300853ca46962f8b5
+1604194,Charoen Sin,http://api.openweathermap.org/data/2.5/weather?id=1604194&APPID=6fb692f7f116da3300853ca46962f8b5
+3107701,Torroella de Fluvia,http://api.openweathermap.org/data/2.5/weather?id=3107701&APPID=6fb692f7f116da3300853ca46962f8b5
+2983357,Roannes-Saint-Mary,http://api.openweathermap.org/data/2.5/weather?id=2983357&APPID=6fb692f7f116da3300853ca46962f8b5
+2595323,Marcory,http://api.openweathermap.org/data/2.5/weather?id=2595323&APPID=6fb692f7f116da3300853ca46962f8b5
+727551,Obshtina Rudozem,http://api.openweathermap.org/data/2.5/weather?id=727551&APPID=6fb692f7f116da3300853ca46962f8b5
+2323579,Sauri,http://api.openweathermap.org/data/2.5/weather?id=2323579&APPID=6fb692f7f116da3300853ca46962f8b5
+761714,Pogorska Wola,http://api.openweathermap.org/data/2.5/weather?id=761714&APPID=6fb692f7f116da3300853ca46962f8b5
+2850468,Rankwitz,http://api.openweathermap.org/data/2.5/weather?id=2850468&APPID=6fb692f7f116da3300853ca46962f8b5
+1793359,Tangqi,http://api.openweathermap.org/data/2.5/weather?id=1793359&APPID=6fb692f7f116da3300853ca46962f8b5
+379261,Al Kiremit al Arakiyyin,http://api.openweathermap.org/data/2.5/weather?id=379261&APPID=6fb692f7f116da3300853ca46962f8b5
+531383,Malaya Serdoba,http://api.openweathermap.org/data/2.5/weather?id=531383&APPID=6fb692f7f116da3300853ca46962f8b5
+3569741,Abreus,http://api.openweathermap.org/data/2.5/weather?id=3569741&APPID=6fb692f7f116da3300853ca46962f8b5
+2647759,Gunnislake,http://api.openweathermap.org/data/2.5/weather?id=2647759&APPID=6fb692f7f116da3300853ca46962f8b5
+3681952,Granada,http://api.openweathermap.org/data/2.5/weather?id=3681952&APPID=6fb692f7f116da3300853ca46962f8b5
+690312,Vatutine,http://api.openweathermap.org/data/2.5/weather?id=690312&APPID=6fb692f7f116da3300853ca46962f8b5
+4387557,Galena,http://api.openweathermap.org/data/2.5/weather?id=4387557&APPID=6fb692f7f116da3300853ca46962f8b5
+2853196,Plieskendorf,http://api.openweathermap.org/data/2.5/weather?id=2853196&APPID=6fb692f7f116da3300853ca46962f8b5
+6362962,Valpalmas,http://api.openweathermap.org/data/2.5/weather?id=6362962&APPID=6fb692f7f116da3300853ca46962f8b5
+775976,Bieniewice,http://api.openweathermap.org/data/2.5/weather?id=775976&APPID=6fb692f7f116da3300853ca46962f8b5
+3163394,Alen,http://api.openweathermap.org/data/2.5/weather?id=3163394&APPID=6fb692f7f116da3300853ca46962f8b5
+590054,Muusika,http://api.openweathermap.org/data/2.5/weather?id=590054&APPID=6fb692f7f116da3300853ca46962f8b5
+6535836,Pettenasco,http://api.openweathermap.org/data/2.5/weather?id=6535836&APPID=6fb692f7f116da3300853ca46962f8b5
+2246608,Pourham,http://api.openweathermap.org/data/2.5/weather?id=2246608&APPID=6fb692f7f116da3300853ca46962f8b5
+2798024,Frameries,http://api.openweathermap.org/data/2.5/weather?id=2798024&APPID=6fb692f7f116da3300853ca46962f8b5
+2656350,Bare,http://api.openweathermap.org/data/2.5/weather?id=2656350&APPID=6fb692f7f116da3300853ca46962f8b5
+3450917,Rondinha,http://api.openweathermap.org/data/2.5/weather?id=3450917&APPID=6fb692f7f116da3300853ca46962f8b5
+1274899,Chakia,http://api.openweathermap.org/data/2.5/weather?id=1274899&APPID=6fb692f7f116da3300853ca46962f8b5
+6172355,Upper Island Cove,http://api.openweathermap.org/data/2.5/weather?id=6172355&APPID=6fb692f7f116da3300853ca46962f8b5
+6608930,Utkino,http://api.openweathermap.org/data/2.5/weather?id=6608930&APPID=6fb692f7f116da3300853ca46962f8b5
+2704654,Hovmantorp,http://api.openweathermap.org/data/2.5/weather?id=2704654&APPID=6fb692f7f116da3300853ca46962f8b5
+2795064,Incourt,http://api.openweathermap.org/data/2.5/weather?id=2795064&APPID=6fb692f7f116da3300853ca46962f8b5
+2837530,Schnaudertrebnitz,http://api.openweathermap.org/data/2.5/weather?id=2837530&APPID=6fb692f7f116da3300853ca46962f8b5
+6449461,Baudre,http://api.openweathermap.org/data/2.5/weather?id=6449461&APPID=6fb692f7f116da3300853ca46962f8b5
+3218939,Oltreacqua,http://api.openweathermap.org/data/2.5/weather?id=3218939&APPID=6fb692f7f116da3300853ca46962f8b5
+626188,Lyelchytsy,http://api.openweathermap.org/data/2.5/weather?id=626188&APPID=6fb692f7f116da3300853ca46962f8b5
+3514297,Yaxchoj,http://api.openweathermap.org/data/2.5/weather?id=3514297&APPID=6fb692f7f116da3300853ca46962f8b5
+7414497,Jeong,http://api.openweathermap.org/data/2.5/weather?id=7414497&APPID=6fb692f7f116da3300853ca46962f8b5
+7850372,Mekarjaya,http://api.openweathermap.org/data/2.5/weather?id=7850372&APPID=6fb692f7f116da3300853ca46962f8b5
+2507323,Amalou,http://api.openweathermap.org/data/2.5/weather?id=2507323&APPID=6fb692f7f116da3300853ca46962f8b5
+4173495,South Miami,http://api.openweathermap.org/data/2.5/weather?id=4173495&APPID=6fb692f7f116da3300853ca46962f8b5
+2634307,Weston Turville,http://api.openweathermap.org/data/2.5/weather?id=2634307&APPID=6fb692f7f116da3300853ca46962f8b5
+2739516,Folgosinho,http://api.openweathermap.org/data/2.5/weather?id=2739516&APPID=6fb692f7f116da3300853ca46962f8b5
+572110,Borovki,http://api.openweathermap.org/data/2.5/weather?id=572110&APPID=6fb692f7f116da3300853ca46962f8b5
+2820964,Trostberg an der Alz,http://api.openweathermap.org/data/2.5/weather?id=2820964&APPID=6fb692f7f116da3300853ca46962f8b5
+2824806,Sulzbach am Main,http://api.openweathermap.org/data/2.5/weather?id=2824806&APPID=6fb692f7f116da3300853ca46962f8b5
+1801984,Luocheng,http://api.openweathermap.org/data/2.5/weather?id=1801984&APPID=6fb692f7f116da3300853ca46962f8b5
+1697765,New Lagao,http://api.openweathermap.org/data/2.5/weather?id=1697765&APPID=6fb692f7f116da3300853ca46962f8b5
+1714482,Domalanoan,http://api.openweathermap.org/data/2.5/weather?id=1714482&APPID=6fb692f7f116da3300853ca46962f8b5
+944540,Ventersburg,http://api.openweathermap.org/data/2.5/weather?id=944540&APPID=6fb692f7f116da3300853ca46962f8b5
+2652262,Cottingham,http://api.openweathermap.org/data/2.5/weather?id=2652262&APPID=6fb692f7f116da3300853ca46962f8b5
+7043956,Chapurniki,http://api.openweathermap.org/data/2.5/weather?id=7043956&APPID=6fb692f7f116da3300853ca46962f8b5
+4207132,Lumpkin County,http://api.openweathermap.org/data/2.5/weather?id=4207132&APPID=6fb692f7f116da3300853ca46962f8b5
+2658233,Unterterzen,http://api.openweathermap.org/data/2.5/weather?id=2658233&APPID=6fb692f7f116da3300853ca46962f8b5
+6181033,White Sands,http://api.openweathermap.org/data/2.5/weather?id=6181033&APPID=6fb692f7f116da3300853ca46962f8b5
+478050,Ust-Kulom,http://api.openweathermap.org/data/2.5/weather?id=478050&APPID=6fb692f7f116da3300853ca46962f8b5
+2969421,Vias,http://api.openweathermap.org/data/2.5/weather?id=2969421&APPID=6fb692f7f116da3300853ca46962f8b5
+4396967,Mansfield,http://api.openweathermap.org/data/2.5/weather?id=4396967&APPID=6fb692f7f116da3300853ca46962f8b5
+6432422,Saint-Martin-Lacaussade,http://api.openweathermap.org/data/2.5/weather?id=6432422&APPID=6fb692f7f116da3300853ca46962f8b5
+104376,Marat,http://api.openweathermap.org/data/2.5/weather?id=104376&APPID=6fb692f7f116da3300853ca46962f8b5
+5222169,Foster,http://api.openweathermap.org/data/2.5/weather?id=5222169&APPID=6fb692f7f116da3300853ca46962f8b5
+939493,Wingate Park,http://api.openweathermap.org/data/2.5/weather?id=939493&APPID=6fb692f7f116da3300853ca46962f8b5
+6541139,Sezze,http://api.openweathermap.org/data/2.5/weather?id=6541139&APPID=6fb692f7f116da3300853ca46962f8b5
+699311,Novopskov,http://api.openweathermap.org/data/2.5/weather?id=699311&APPID=6fb692f7f116da3300853ca46962f8b5
+3127205,Caboalles de Abajo,http://api.openweathermap.org/data/2.5/weather?id=3127205&APPID=6fb692f7f116da3300853ca46962f8b5
+1650600,Balaipungut,http://api.openweathermap.org/data/2.5/weather?id=1650600&APPID=6fb692f7f116da3300853ca46962f8b5
+525025,Moshenskoye,http://api.openweathermap.org/data/2.5/weather?id=525025&APPID=6fb692f7f116da3300853ca46962f8b5
+1153062,Kapoe,http://api.openweathermap.org/data/2.5/weather?id=1153062&APPID=6fb692f7f116da3300853ca46962f8b5
+4269447,Cheney,http://api.openweathermap.org/data/2.5/weather?id=4269447&APPID=6fb692f7f116da3300853ca46962f8b5
+1707799,Lambunao,http://api.openweathermap.org/data/2.5/weather?id=1707799&APPID=6fb692f7f116da3300853ca46962f8b5
+5086624,Goffs Falls,http://api.openweathermap.org/data/2.5/weather?id=5086624&APPID=6fb692f7f116da3300853ca46962f8b5
+1901233,Xiliguantun,http://api.openweathermap.org/data/2.5/weather?id=1901233&APPID=6fb692f7f116da3300853ca46962f8b5
+4445435,Selma,http://api.openweathermap.org/data/2.5/weather?id=4445435&APPID=6fb692f7f116da3300853ca46962f8b5
+5019588,Buffalo,http://api.openweathermap.org/data/2.5/weather?id=5019588&APPID=6fb692f7f116da3300853ca46962f8b5
+2911833,Hainewalde,http://api.openweathermap.org/data/2.5/weather?id=2911833&APPID=6fb692f7f116da3300853ca46962f8b5
+5386984,Reedley,http://api.openweathermap.org/data/2.5/weather?id=5386984&APPID=6fb692f7f116da3300853ca46962f8b5
+6429964,Rognon,http://api.openweathermap.org/data/2.5/weather?id=6429964&APPID=6fb692f7f116da3300853ca46962f8b5
+7531790,Jaworzno,http://api.openweathermap.org/data/2.5/weather?id=7531790&APPID=6fb692f7f116da3300853ca46962f8b5
+6940691,Salh,http://api.openweathermap.org/data/2.5/weather?id=6940691&APPID=6fb692f7f116da3300853ca46962f8b5
+1599143,Ban Phae,http://api.openweathermap.org/data/2.5/weather?id=1599143&APPID=6fb692f7f116da3300853ca46962f8b5
+3112744,Puente de los Fierros,http://api.openweathermap.org/data/2.5/weather?id=3112744&APPID=6fb692f7f116da3300853ca46962f8b5
+4693832,Godley,http://api.openweathermap.org/data/2.5/weather?id=4693832&APPID=6fb692f7f116da3300853ca46962f8b5
+3001006,Les Fougères,http://api.openweathermap.org/data/2.5/weather?id=3001006&APPID=6fb692f7f116da3300853ca46962f8b5
+3600906,Tepanguare,http://api.openweathermap.org/data/2.5/weather?id=3600906&APPID=6fb692f7f116da3300853ca46962f8b5
+2645216,Kirkton of Auchterhouse,http://api.openweathermap.org/data/2.5/weather?id=2645216&APPID=6fb692f7f116da3300853ca46962f8b5
+731103,Govedartsi,http://api.openweathermap.org/data/2.5/weather?id=731103&APPID=6fb692f7f116da3300853ca46962f8b5
+6614974,Lorcières,http://api.openweathermap.org/data/2.5/weather?id=6614974&APPID=6fb692f7f116da3300853ca46962f8b5
+2871663,Meschenich,http://api.openweathermap.org/data/2.5/weather?id=2871663&APPID=6fb692f7f116da3300853ca46962f8b5
+3051657,Harta,http://api.openweathermap.org/data/2.5/weather?id=3051657&APPID=6fb692f7f116da3300853ca46962f8b5
+6357223,Fuente la Lancha,http://api.openweathermap.org/data/2.5/weather?id=6357223&APPID=6fb692f7f116da3300853ca46962f8b5
+264501,Asimion,http://api.openweathermap.org/data/2.5/weather?id=264501&APPID=6fb692f7f116da3300853ca46962f8b5
+6555907,Dogern,http://api.openweathermap.org/data/2.5/weather?id=6555907&APPID=6fb692f7f116da3300853ca46962f8b5
+4905367,Park Ridge,http://api.openweathermap.org/data/2.5/weather?id=4905367&APPID=6fb692f7f116da3300853ca46962f8b5
+3584958,Las Flores,http://api.openweathermap.org/data/2.5/weather?id=3584958&APPID=6fb692f7f116da3300853ca46962f8b5
+7286307,Le Landeron,http://api.openweathermap.org/data/2.5/weather?id=7286307&APPID=6fb692f7f116da3300853ca46962f8b5
+4628044,Harrogate,http://api.openweathermap.org/data/2.5/weather?id=4628044&APPID=6fb692f7f116da3300853ca46962f8b5
+1808490,Henggouqiao,http://api.openweathermap.org/data/2.5/weather?id=1808490&APPID=6fb692f7f116da3300853ca46962f8b5
+1917490,Dengfang,http://api.openweathermap.org/data/2.5/weather?id=1917490&APPID=6fb692f7f116da3300853ca46962f8b5
+6359664,Genevilla,http://api.openweathermap.org/data/2.5/weather?id=6359664&APPID=6fb692f7f116da3300853ca46962f8b5
+3070724,Mikulcice,http://api.openweathermap.org/data/2.5/weather?id=3070724&APPID=6fb692f7f116da3300853ca46962f8b5
+6454504,Diusse,http://api.openweathermap.org/data/2.5/weather?id=6454504&APPID=6fb692f7f116da3300853ca46962f8b5
+3498418,Los Hidalgos,http://api.openweathermap.org/data/2.5/weather?id=3498418&APPID=6fb692f7f116da3300853ca46962f8b5
+8181648,Bern / Wankdorf,http://api.openweathermap.org/data/2.5/weather?id=8181648&APPID=6fb692f7f116da3300853ca46962f8b5
+2293549,Abengourou,http://api.openweathermap.org/data/2.5/weather?id=2293549&APPID=6fb692f7f116da3300853ca46962f8b5
+2521221,Bayarcal,http://api.openweathermap.org/data/2.5/weather?id=2521221&APPID=6fb692f7f116da3300853ca46962f8b5
+6448426,Brouqueyran,http://api.openweathermap.org/data/2.5/weather?id=6448426&APPID=6fb692f7f116da3300853ca46962f8b5
+6540332,Carate Brianza,http://api.openweathermap.org/data/2.5/weather?id=6540332&APPID=6fb692f7f116da3300853ca46962f8b5
+5847486,Kailua,http://api.openweathermap.org/data/2.5/weather?id=5847486&APPID=6fb692f7f116da3300853ca46962f8b5
+5377775,North Richmond,http://api.openweathermap.org/data/2.5/weather?id=5377775&APPID=6fb692f7f116da3300853ca46962f8b5
+3184368,Qerek,http://api.openweathermap.org/data/2.5/weather?id=3184368&APPID=6fb692f7f116da3300853ca46962f8b5
+767647,Krasne,http://api.openweathermap.org/data/2.5/weather?id=767647&APPID=6fb692f7f116da3300853ca46962f8b5
+2161764,Kawarren,http://api.openweathermap.org/data/2.5/weather?id=2161764&APPID=6fb692f7f116da3300853ca46962f8b5
+6534879,Fresonara,http://api.openweathermap.org/data/2.5/weather?id=6534879&APPID=6fb692f7f116da3300853ca46962f8b5
+3902685,Tomas Barron,http://api.openweathermap.org/data/2.5/weather?id=3902685&APPID=6fb692f7f116da3300853ca46962f8b5
+2974748,Servon,http://api.openweathermap.org/data/2.5/weather?id=2974748&APPID=6fb692f7f116da3300853ca46962f8b5
+6615624,Miribel,http://api.openweathermap.org/data/2.5/weather?id=6615624&APPID=6fb692f7f116da3300853ca46962f8b5
+6548494,Mildenau,http://api.openweathermap.org/data/2.5/weather?id=6548494&APPID=6fb692f7f116da3300853ca46962f8b5
+711348,Buchach,http://api.openweathermap.org/data/2.5/weather?id=711348&APPID=6fb692f7f116da3300853ca46962f8b5
+2951311,Beiseförth,http://api.openweathermap.org/data/2.5/weather?id=2951311&APPID=6fb692f7f116da3300853ca46962f8b5
+5330056,Bootjack,http://api.openweathermap.org/data/2.5/weather?id=5330056&APPID=6fb692f7f116da3300853ca46962f8b5
+6535068,Volpeglino,http://api.openweathermap.org/data/2.5/weather?id=6535068&APPID=6fb692f7f116da3300853ca46962f8b5
+3209198,Heuckewalde,http://api.openweathermap.org/data/2.5/weather?id=3209198&APPID=6fb692f7f116da3300853ca46962f8b5
+3207702,Elbingen-Mähren,http://api.openweathermap.org/data/2.5/weather?id=3207702&APPID=6fb692f7f116da3300853ca46962f8b5
+2732626,Vila Frescainha,http://api.openweathermap.org/data/2.5/weather?id=2732626&APPID=6fb692f7f116da3300853ca46962f8b5
+3866396,Aldea Brasilera,http://api.openweathermap.org/data/2.5/weather?id=3866396&APPID=6fb692f7f116da3300853ca46962f8b5
+6427277,Landes-sur-Ajon,http://api.openweathermap.org/data/2.5/weather?id=6427277&APPID=6fb692f7f116da3300853ca46962f8b5
+2293107,Akoupe,http://api.openweathermap.org/data/2.5/weather?id=2293107&APPID=6fb692f7f116da3300853ca46962f8b5
+2658223,Urnasch,http://api.openweathermap.org/data/2.5/weather?id=2658223&APPID=6fb692f7f116da3300853ca46962f8b5
+1831095,Khétt Kândal,http://api.openweathermap.org/data/2.5/weather?id=1831095&APPID=6fb692f7f116da3300853ca46962f8b5
+1185755,Unāisār,http://api.openweathermap.org/data/2.5/weather?id=1185755&APPID=6fb692f7f116da3300853ca46962f8b5
+3865605,Apolinario Saravia,http://api.openweathermap.org/data/2.5/weather?id=3865605&APPID=6fb692f7f116da3300853ca46962f8b5
+3615683,Wiwili,http://api.openweathermap.org/data/2.5/weather?id=3615683&APPID=6fb692f7f116da3300853ca46962f8b5
+3166265,Spigno Monferrato,http://api.openweathermap.org/data/2.5/weather?id=3166265&APPID=6fb692f7f116da3300853ca46962f8b5
+3097232,Jemielno,http://api.openweathermap.org/data/2.5/weather?id=3097232&APPID=6fb692f7f116da3300853ca46962f8b5
+2913627,Gunserode,http://api.openweathermap.org/data/2.5/weather?id=2913627&APPID=6fb692f7f116da3300853ca46962f8b5
+8010628,Caminha,http://api.openweathermap.org/data/2.5/weather?id=8010628&APPID=6fb692f7f116da3300853ca46962f8b5
+3052026,Gyongyospata,http://api.openweathermap.org/data/2.5/weather?id=3052026&APPID=6fb692f7f116da3300853ca46962f8b5
+691693,Terebovlya,http://api.openweathermap.org/data/2.5/weather?id=691693&APPID=6fb692f7f116da3300853ca46962f8b5
+1508943,Borodino,http://api.openweathermap.org/data/2.5/weather?id=1508943&APPID=6fb692f7f116da3300853ca46962f8b5
+559917,Gorki,http://api.openweathermap.org/data/2.5/weather?id=559917&APPID=6fb692f7f116da3300853ca46962f8b5
+2325060,Pankshin,http://api.openweathermap.org/data/2.5/weather?id=2325060&APPID=6fb692f7f116da3300853ca46962f8b5
+2978317,Saint-Martin-dHeres,http://api.openweathermap.org/data/2.5/weather?id=2978317&APPID=6fb692f7f116da3300853ca46962f8b5
+2885066,Kövenig,http://api.openweathermap.org/data/2.5/weather?id=2885066&APPID=6fb692f7f116da3300853ca46962f8b5
+3168558,San Bassano,http://api.openweathermap.org/data/2.5/weather?id=3168558&APPID=6fb692f7f116da3300853ca46962f8b5
+320448,Bulanik,http://api.openweathermap.org/data/2.5/weather?id=320448&APPID=6fb692f7f116da3300853ca46962f8b5
+6359161,Viniegra de Arriba,http://api.openweathermap.org/data/2.5/weather?id=6359161&APPID=6fb692f7f116da3300853ca46962f8b5
+1699782,Miaray,http://api.openweathermap.org/data/2.5/weather?id=1699782&APPID=6fb692f7f116da3300853ca46962f8b5
+3578818,Mazeau,http://api.openweathermap.org/data/2.5/weather?id=3578818&APPID=6fb692f7f116da3300853ca46962f8b5
+2175376,Blair Athol,http://api.openweathermap.org/data/2.5/weather?id=2175376&APPID=6fb692f7f116da3300853ca46962f8b5
+2823824,Tauer,http://api.openweathermap.org/data/2.5/weather?id=2823824&APPID=6fb692f7f116da3300853ca46962f8b5
+7287578,Wildhaus,http://api.openweathermap.org/data/2.5/weather?id=7287578&APPID=6fb692f7f116da3300853ca46962f8b5
+6615947,Saint-Flour,http://api.openweathermap.org/data/2.5/weather?id=6615947&APPID=6fb692f7f116da3300853ca46962f8b5
+1909627,Xiaofayi,http://api.openweathermap.org/data/2.5/weather?id=1909627&APPID=6fb692f7f116da3300853ca46962f8b5
+2176245,Belrose,http://api.openweathermap.org/data/2.5/weather?id=2176245&APPID=6fb692f7f116da3300853ca46962f8b5
+2974817,Serres-Gaston,http://api.openweathermap.org/data/2.5/weather?id=2974817&APPID=6fb692f7f116da3300853ca46962f8b5
+1817776,Baibu,http://api.openweathermap.org/data/2.5/weather?id=1817776&APPID=6fb692f7f116da3300853ca46962f8b5
+3310670,Carrickroe,http://api.openweathermap.org/data/2.5/weather?id=3310670&APPID=6fb692f7f116da3300853ca46962f8b5
+5338866,Colusa,http://api.openweathermap.org/data/2.5/weather?id=5338866&APPID=6fb692f7f116da3300853ca46962f8b5
+6360036,Frechilla,http://api.openweathermap.org/data/2.5/weather?id=6360036&APPID=6fb692f7f116da3300853ca46962f8b5
+4343313,Terrebonne Parish,http://api.openweathermap.org/data/2.5/weather?id=4343313&APPID=6fb692f7f116da3300853ca46962f8b5
+1606030,Surin,http://api.openweathermap.org/data/2.5/weather?id=1606030&APPID=6fb692f7f116da3300853ca46962f8b5
+3105442,Villamandos,http://api.openweathermap.org/data/2.5/weather?id=3105442&APPID=6fb692f7f116da3300853ca46962f8b5
+3092044,Michalowice,http://api.openweathermap.org/data/2.5/weather?id=3092044&APPID=6fb692f7f116da3300853ca46962f8b5
+5780020,Providence,http://api.openweathermap.org/data/2.5/weather?id=5780020&APPID=6fb692f7f116da3300853ca46962f8b5
+3208118,Schoeffengrund,http://api.openweathermap.org/data/2.5/weather?id=3208118&APPID=6fb692f7f116da3300853ca46962f8b5
+2147545,Tallygaroopna,http://api.openweathermap.org/data/2.5/weather?id=2147545&APPID=6fb692f7f116da3300853ca46962f8b5
+3167442,SantAngelo in Vado,http://api.openweathermap.org/data/2.5/weather?id=3167442&APPID=6fb692f7f116da3300853ca46962f8b5
+6554122,Daubach,http://api.openweathermap.org/data/2.5/weather?id=6554122&APPID=6fb692f7f116da3300853ca46962f8b5
+2153292,Piangil,http://api.openweathermap.org/data/2.5/weather?id=2153292&APPID=6fb692f7f116da3300853ca46962f8b5
+2854149,Pfeffenhausen,http://api.openweathermap.org/data/2.5/weather?id=2854149&APPID=6fb692f7f116da3300853ca46962f8b5
+3566062,Provincia de Camagüey,http://api.openweathermap.org/data/2.5/weather?id=3566062&APPID=6fb692f7f116da3300853ca46962f8b5
+5194100,Honey Brook,http://api.openweathermap.org/data/2.5/weather?id=5194100&APPID=6fb692f7f116da3300853ca46962f8b5
+6553674,Düngenheim,http://api.openweathermap.org/data/2.5/weather?id=6553674&APPID=6fb692f7f116da3300853ca46962f8b5
+3680616,Iles,http://api.openweathermap.org/data/2.5/weather?id=3680616&APPID=6fb692f7f116da3300853ca46962f8b5
+2546466,Ikhorbane,http://api.openweathermap.org/data/2.5/weather?id=2546466&APPID=6fb692f7f116da3300853ca46962f8b5
+3125547,Cebrones del Rio,http://api.openweathermap.org/data/2.5/weather?id=3125547&APPID=6fb692f7f116da3300853ca46962f8b5
+2785423,Tintigny,http://api.openweathermap.org/data/2.5/weather?id=2785423&APPID=6fb692f7f116da3300853ca46962f8b5
+2612823,Spentrup,http://api.openweathermap.org/data/2.5/weather?id=2612823&APPID=6fb692f7f116da3300853ca46962f8b5
+2961231,Termonfeckin,http://api.openweathermap.org/data/2.5/weather?id=2961231&APPID=6fb692f7f116da3300853ca46962f8b5
+4654953,Rutherford,http://api.openweathermap.org/data/2.5/weather?id=4654953&APPID=6fb692f7f116da3300853ca46962f8b5
+5320800,Whiteriver,http://api.openweathermap.org/data/2.5/weather?id=5320800&APPID=6fb692f7f116da3300853ca46962f8b5
+5052916,Willmar,http://api.openweathermap.org/data/2.5/weather?id=5052916&APPID=6fb692f7f116da3300853ca46962f8b5
+4166776,Ocoee,http://api.openweathermap.org/data/2.5/weather?id=4166776&APPID=6fb692f7f116da3300853ca46962f8b5
+2924412,Friemar,http://api.openweathermap.org/data/2.5/weather?id=2924412&APPID=6fb692f7f116da3300853ca46962f8b5
+6432822,Saint-Coulomb,http://api.openweathermap.org/data/2.5/weather?id=6432822&APPID=6fb692f7f116da3300853ca46962f8b5
+683637,Brosteni,http://api.openweathermap.org/data/2.5/weather?id=683637&APPID=6fb692f7f116da3300853ca46962f8b5
+5026478,Fillmore County,http://api.openweathermap.org/data/2.5/weather?id=5026478&APPID=6fb692f7f116da3300853ca46962f8b5
+3462601,Gandu,http://api.openweathermap.org/data/2.5/weather?id=3462601&APPID=6fb692f7f116da3300853ca46962f8b5
+2922346,Gastriege,http://api.openweathermap.org/data/2.5/weather?id=2922346&APPID=6fb692f7f116da3300853ca46962f8b5
+1595484,Phatthana Nikhom,http://api.openweathermap.org/data/2.5/weather?id=1595484&APPID=6fb692f7f116da3300853ca46962f8b5
+3080476,Zblewo,http://api.openweathermap.org/data/2.5/weather?id=3080476&APPID=6fb692f7f116da3300853ca46962f8b5
+5121009,Holland Cove,http://api.openweathermap.org/data/2.5/weather?id=5121009&APPID=6fb692f7f116da3300853ca46962f8b5
+521739,Nikol’skoye,http://api.openweathermap.org/data/2.5/weather?id=521739&APPID=6fb692f7f116da3300853ca46962f8b5
+1785238,Zhanghuban,http://api.openweathermap.org/data/2.5/weather?id=1785238&APPID=6fb692f7f116da3300853ca46962f8b5
+7871965,Altheim,http://api.openweathermap.org/data/2.5/weather?id=7871965&APPID=6fb692f7f116da3300853ca46962f8b5
+7569439,Bengga,http://api.openweathermap.org/data/2.5/weather?id=7569439&APPID=6fb692f7f116da3300853ca46962f8b5
+5777244,Lewiston,http://api.openweathermap.org/data/2.5/weather?id=5777244&APPID=6fb692f7f116da3300853ca46962f8b5
+3688170,Cabrera,http://api.openweathermap.org/data/2.5/weather?id=3688170&APPID=6fb692f7f116da3300853ca46962f8b5
+2263715,Rossio ao Sul do Tejo,http://api.openweathermap.org/data/2.5/weather?id=2263715&APPID=6fb692f7f116da3300853ca46962f8b5
+6553853,Rengsdorf,http://api.openweathermap.org/data/2.5/weather?id=6553853&APPID=6fb692f7f116da3300853ca46962f8b5
+3115167,Olicio,http://api.openweathermap.org/data/2.5/weather?id=3115167&APPID=6fb692f7f116da3300853ca46962f8b5
+2051187,Xiangrong,http://api.openweathermap.org/data/2.5/weather?id=2051187&APPID=6fb692f7f116da3300853ca46962f8b5
+2513320,Navalpino,http://api.openweathermap.org/data/2.5/weather?id=2513320&APPID=6fb692f7f116da3300853ca46962f8b5
+4248751,Saint Clair County,http://api.openweathermap.org/data/2.5/weather?id=4248751&APPID=6fb692f7f116da3300853ca46962f8b5
+2645155,Knighton,http://api.openweathermap.org/data/2.5/weather?id=2645155&APPID=6fb692f7f116da3300853ca46962f8b5
+3177088,Provincia di Ferrara,http://api.openweathermap.org/data/2.5/weather?id=3177088&APPID=6fb692f7f116da3300853ca46962f8b5
+5012748,Tuscola County,http://api.openweathermap.org/data/2.5/weather?id=5012748&APPID=6fb692f7f116da3300853ca46962f8b5
+2143225,Wolvi,http://api.openweathermap.org/data/2.5/weather?id=2143225&APPID=6fb692f7f116da3300853ca46962f8b5
+2881154,Langenbernsdorf,http://api.openweathermap.org/data/2.5/weather?id=2881154&APPID=6fb692f7f116da3300853ca46962f8b5
+6361091,Bayubas de Arriba,http://api.openweathermap.org/data/2.5/weather?id=6361091&APPID=6fb692f7f116da3300853ca46962f8b5
+4713813,Nassau Bay,http://api.openweathermap.org/data/2.5/weather?id=4713813&APPID=6fb692f7f116da3300853ca46962f8b5
+6454487,Riom,http://api.openweathermap.org/data/2.5/weather?id=6454487&APPID=6fb692f7f116da3300853ca46962f8b5
+7602612,Hohe Börde,http://api.openweathermap.org/data/2.5/weather?id=7602612&APPID=6fb692f7f116da3300853ca46962f8b5
+3127287,Cabanas de Polendos,http://api.openweathermap.org/data/2.5/weather?id=3127287&APPID=6fb692f7f116da3300853ca46962f8b5
+4034821,Mata-Utu,http://api.openweathermap.org/data/2.5/weather?id=4034821&APPID=6fb692f7f116da3300853ca46962f8b5
+1495859,Ostrovskaya Ploshchadka,http://api.openweathermap.org/data/2.5/weather?id=1495859&APPID=6fb692f7f116da3300853ca46962f8b5
+7780449,Ciekek,http://api.openweathermap.org/data/2.5/weather?id=7780449&APPID=6fb692f7f116da3300853ca46962f8b5
+4348599,Bethesda,http://api.openweathermap.org/data/2.5/weather?id=4348599&APPID=6fb692f7f116da3300853ca46962f8b5
+7679680,Baique,http://api.openweathermap.org/data/2.5/weather?id=7679680&APPID=6fb692f7f116da3300853ca46962f8b5
+5730183,Happy Valley,http://api.openweathermap.org/data/2.5/weather?id=5730183&APPID=6fb692f7f116da3300853ca46962f8b5
+1271130,Gobindpur,http://api.openweathermap.org/data/2.5/weather?id=1271130&APPID=6fb692f7f116da3300853ca46962f8b5
+3669469,San Juan del Cesar,http://api.openweathermap.org/data/2.5/weather?id=3669469&APPID=6fb692f7f116da3300853ca46962f8b5
+6557088,Kirchheim,http://api.openweathermap.org/data/2.5/weather?id=6557088&APPID=6fb692f7f116da3300853ca46962f8b5
+148842,Wete,http://api.openweathermap.org/data/2.5/weather?id=148842&APPID=6fb692f7f116da3300853ca46962f8b5
+3019536,Estillac,http://api.openweathermap.org/data/2.5/weather?id=3019536&APPID=6fb692f7f116da3300853ca46962f8b5
+3125830,Castilfale,http://api.openweathermap.org/data/2.5/weather?id=3125830&APPID=6fb692f7f116da3300853ca46962f8b5
+4754686,Crewe,http://api.openweathermap.org/data/2.5/weather?id=4754686&APPID=6fb692f7f116da3300853ca46962f8b5
+706803,Karapyshi,http://api.openweathermap.org/data/2.5/weather?id=706803&APPID=6fb692f7f116da3300853ca46962f8b5
+674636,Loamnes,http://api.openweathermap.org/data/2.5/weather?id=674636&APPID=6fb692f7f116da3300853ca46962f8b5
+6453767,Dijon,http://api.openweathermap.org/data/2.5/weather?id=6453767&APPID=6fb692f7f116da3300853ca46962f8b5
+1917290,Daba,http://api.openweathermap.org/data/2.5/weather?id=1917290&APPID=6fb692f7f116da3300853ca46962f8b5
+3089553,Pajeczno,http://api.openweathermap.org/data/2.5/weather?id=3089553&APPID=6fb692f7f116da3300853ca46962f8b5
+6559288,Neustadt/Harz,http://api.openweathermap.org/data/2.5/weather?id=6559288&APPID=6fb692f7f116da3300853ca46962f8b5
+7920501,Pangatikan,http://api.openweathermap.org/data/2.5/weather?id=7920501&APPID=6fb692f7f116da3300853ca46962f8b5
+2942999,Bruschied,http://api.openweathermap.org/data/2.5/weather?id=2942999&APPID=6fb692f7f116da3300853ca46962f8b5
+1192691,Pānchgaon,http://api.openweathermap.org/data/2.5/weather?id=1192691&APPID=6fb692f7f116da3300853ca46962f8b5
+2976548,Saint-Yorre,http://api.openweathermap.org/data/2.5/weather?id=2976548&APPID=6fb692f7f116da3300853ca46962f8b5
+2829218,Stedesdorf,http://api.openweathermap.org/data/2.5/weather?id=2829218&APPID=6fb692f7f116da3300853ca46962f8b5
+2948725,Birgel,http://api.openweathermap.org/data/2.5/weather?id=2948725&APPID=6fb692f7f116da3300853ca46962f8b5
+8073162,Dowan,http://api.openweathermap.org/data/2.5/weather?id=8073162&APPID=6fb692f7f116da3300853ca46962f8b5
+455890,Saldus,http://api.openweathermap.org/data/2.5/weather?id=455890&APPID=6fb692f7f116da3300853ca46962f8b5
+454407,Vecpils,http://api.openweathermap.org/data/2.5/weather?id=454407&APPID=6fb692f7f116da3300853ca46962f8b5
+6060745,Lougheed,http://api.openweathermap.org/data/2.5/weather?id=6060745&APPID=6fb692f7f116da3300853ca46962f8b5
+6362898,Plasencia de Jalón,http://api.openweathermap.org/data/2.5/weather?id=6362898&APPID=6fb692f7f116da3300853ca46962f8b5
+3375941,Skeldon,http://api.openweathermap.org/data/2.5/weather?id=3375941&APPID=6fb692f7f116da3300853ca46962f8b5
+3665992,Villagarzon,http://api.openweathermap.org/data/2.5/weather?id=3665992&APPID=6fb692f7f116da3300853ca46962f8b5
+3117317,Marzaniella,http://api.openweathermap.org/data/2.5/weather?id=3117317&APPID=6fb692f7f116da3300853ca46962f8b5
+6553727,Tellig,http://api.openweathermap.org/data/2.5/weather?id=6553727&APPID=6fb692f7f116da3300853ca46962f8b5
+2111049,Shiogama,http://api.openweathermap.org/data/2.5/weather?id=2111049&APPID=6fb692f7f116da3300853ca46962f8b5
+660437,Byskatan,http://api.openweathermap.org/data/2.5/weather?id=660437&APPID=6fb692f7f116da3300853ca46962f8b5
+6547285,Marrakech,http://api.openweathermap.org/data/2.5/weather?id=6547285&APPID=6fb692f7f116da3300853ca46962f8b5
+2651795,Crynant,http://api.openweathermap.org/data/2.5/weather?id=2651795&APPID=6fb692f7f116da3300853ca46962f8b5
+2967570,Vrigne-aux-Bois,http://api.openweathermap.org/data/2.5/weather?id=2967570&APPID=6fb692f7f116da3300853ca46962f8b5
+3667373,Tasco,http://api.openweathermap.org/data/2.5/weather?id=3667373&APPID=6fb692f7f116da3300853ca46962f8b5
+3199744,Gradacac,http://api.openweathermap.org/data/2.5/weather?id=3199744&APPID=6fb692f7f116da3300853ca46962f8b5
+6360940,Veganzones,http://api.openweathermap.org/data/2.5/weather?id=6360940&APPID=6fb692f7f116da3300853ca46962f8b5
+4782167,Roanoke,http://api.openweathermap.org/data/2.5/weather?id=4782167&APPID=6fb692f7f116da3300853ca46962f8b5
+3658195,Provincia de El Oro,http://api.openweathermap.org/data/2.5/weather?id=3658195&APPID=6fb692f7f116da3300853ca46962f8b5
+1817549,Baima,http://api.openweathermap.org/data/2.5/weather?id=1817549&APPID=6fb692f7f116da3300853ca46962f8b5
+6555102,Hefersweiler,http://api.openweathermap.org/data/2.5/weather?id=6555102&APPID=6fb692f7f116da3300853ca46962f8b5
+1791773,Wanquan,http://api.openweathermap.org/data/2.5/weather?id=1791773&APPID=6fb692f7f116da3300853ca46962f8b5
+2514554,Los Palacios,http://api.openweathermap.org/data/2.5/weather?id=2514554&APPID=6fb692f7f116da3300853ca46962f8b5
+6355480,Pinós (el)/Pinoso,http://api.openweathermap.org/data/2.5/weather?id=6355480&APPID=6fb692f7f116da3300853ca46962f8b5
+2809138,Wiesloch,http://api.openweathermap.org/data/2.5/weather?id=2809138&APPID=6fb692f7f116da3300853ca46962f8b5
+3436108,Barrio Nuevo,http://api.openweathermap.org/data/2.5/weather?id=3436108&APPID=6fb692f7f116da3300853ca46962f8b5
+3175965,Gradara,http://api.openweathermap.org/data/2.5/weather?id=3175965&APPID=6fb692f7f116da3300853ca46962f8b5
+5203211,New Kensington,http://api.openweathermap.org/data/2.5/weather?id=5203211&APPID=6fb692f7f116da3300853ca46962f8b5
+3077862,Chabarovice,http://api.openweathermap.org/data/2.5/weather?id=3077862&APPID=6fb692f7f116da3300853ca46962f8b5
+2789480,Ouffet,http://api.openweathermap.org/data/2.5/weather?id=2789480&APPID=6fb692f7f116da3300853ca46962f8b5
+1688238,Santa Cruz,http://api.openweathermap.org/data/2.5/weather?id=1688238&APPID=6fb692f7f116da3300853ca46962f8b5
+1816093,Cangqian,http://api.openweathermap.org/data/2.5/weather?id=1816093&APPID=6fb692f7f116da3300853ca46962f8b5
+2755009,Haaren,http://api.openweathermap.org/data/2.5/weather?id=2755009&APPID=6fb692f7f116da3300853ca46962f8b5
+3178574,Civitella del Tronto,http://api.openweathermap.org/data/2.5/weather?id=3178574&APPID=6fb692f7f116da3300853ca46962f8b5
+726885,Obshtina Stambolovo,http://api.openweathermap.org/data/2.5/weather?id=726885&APPID=6fb692f7f116da3300853ca46962f8b5
+1998386,Wuzhu,http://api.openweathermap.org/data/2.5/weather?id=1998386&APPID=6fb692f7f116da3300853ca46962f8b5
+2920634,Giekau,http://api.openweathermap.org/data/2.5/weather?id=2920634&APPID=6fb692f7f116da3300853ca46962f8b5
+3125354,Cerezo de Arriba,http://api.openweathermap.org/data/2.5/weather?id=3125354&APPID=6fb692f7f116da3300853ca46962f8b5
+6426985,Paulhe,http://api.openweathermap.org/data/2.5/weather?id=6426985&APPID=6fb692f7f116da3300853ca46962f8b5
+5736378,Lents,http://api.openweathermap.org/data/2.5/weather?id=5736378&APPID=6fb692f7f116da3300853ca46962f8b5
+3127543,Bueras,http://api.openweathermap.org/data/2.5/weather?id=3127543&APPID=6fb692f7f116da3300853ca46962f8b5
+6095751,Oxbow,http://api.openweathermap.org/data/2.5/weather?id=6095751&APPID=6fb692f7f116da3300853ca46962f8b5
+2841392,Sarnstall,http://api.openweathermap.org/data/2.5/weather?id=2841392&APPID=6fb692f7f116da3300853ca46962f8b5
+607843,Orda,http://api.openweathermap.org/data/2.5/weather?id=607843&APPID=6fb692f7f116da3300853ca46962f8b5
+667046,Sinesti,http://api.openweathermap.org/data/2.5/weather?id=667046&APPID=6fb692f7f116da3300853ca46962f8b5
+6548791,Trossin,http://api.openweathermap.org/data/2.5/weather?id=6548791&APPID=6fb692f7f116da3300853ca46962f8b5
+686966,Zhytomyrs’ka Oblast’,http://api.openweathermap.org/data/2.5/weather?id=686966&APPID=6fb692f7f116da3300853ca46962f8b5
+4991470,Eagle River,http://api.openweathermap.org/data/2.5/weather?id=4991470&APPID=6fb692f7f116da3300853ca46962f8b5
+3595801,Municipio de Escuintla,http://api.openweathermap.org/data/2.5/weather?id=3595801&APPID=6fb692f7f116da3300853ca46962f8b5
+3748736,Greathead,http://api.openweathermap.org/data/2.5/weather?id=3748736&APPID=6fb692f7f116da3300853ca46962f8b5
+6431462,Tavel,http://api.openweathermap.org/data/2.5/weather?id=6431462&APPID=6fb692f7f116da3300853ca46962f8b5
+105072,Khamis Mushayt,http://api.openweathermap.org/data/2.5/weather?id=105072&APPID=6fb692f7f116da3300853ca46962f8b5
+1502422,Kosh-Agach,http://api.openweathermap.org/data/2.5/weather?id=1502422&APPID=6fb692f7f116da3300853ca46962f8b5
+3621184,Turrialba,http://api.openweathermap.org/data/2.5/weather?id=3621184&APPID=6fb692f7f116da3300853ca46962f8b5
+6447134,Istres,http://api.openweathermap.org/data/2.5/weather?id=6447134&APPID=6fb692f7f116da3300853ca46962f8b5
+6356375,Bugedo,http://api.openweathermap.org/data/2.5/weather?id=6356375&APPID=6fb692f7f116da3300853ca46962f8b5
+2833511,Segnitz,http://api.openweathermap.org/data/2.5/weather?id=2833511&APPID=6fb692f7f116da3300853ca46962f8b5
+624812,Napalki,http://api.openweathermap.org/data/2.5/weather?id=624812&APPID=6fb692f7f116da3300853ca46962f8b5
+2899278,Hoort,http://api.openweathermap.org/data/2.5/weather?id=2899278&APPID=6fb692f7f116da3300853ca46962f8b5
+7035985,Ketuwan,http://api.openweathermap.org/data/2.5/weather?id=7035985&APPID=6fb692f7f116da3300853ca46962f8b5
+7839511,Goomalling,http://api.openweathermap.org/data/2.5/weather?id=7839511&APPID=6fb692f7f116da3300853ca46962f8b5
+3122992,Escó,http://api.openweathermap.org/data/2.5/weather?id=3122992&APPID=6fb692f7f116da3300853ca46962f8b5
+6548562,Claußnitz,http://api.openweathermap.org/data/2.5/weather?id=6548562&APPID=6fb692f7f116da3300853ca46962f8b5
+627878,Ilya,http://api.openweathermap.org/data/2.5/weather?id=627878&APPID=6fb692f7f116da3300853ca46962f8b5
+5612492,Williams Lake Resort,http://api.openweathermap.org/data/2.5/weather?id=5612492&APPID=6fb692f7f116da3300853ca46962f8b5
+2786577,Arrondissement Sint-Niklaas,http://api.openweathermap.org/data/2.5/weather?id=2786577&APPID=6fb692f7f116da3300853ca46962f8b5
+4033514,Teavaro,http://api.openweathermap.org/data/2.5/weather?id=4033514&APPID=6fb692f7f116da3300853ca46962f8b5
+1428258,Kalayi-Gulyamsheykhi,http://api.openweathermap.org/data/2.5/weather?id=1428258&APPID=6fb692f7f116da3300853ca46962f8b5
+3396877,Lagoa da Canoa,http://api.openweathermap.org/data/2.5/weather?id=3396877&APPID=6fb692f7f116da3300853ca46962f8b5
+6534649,Zuclo,http://api.openweathermap.org/data/2.5/weather?id=6534649&APPID=6fb692f7f116da3300853ca46962f8b5
+6356583,San Juan del Monte,http://api.openweathermap.org/data/2.5/weather?id=6356583&APPID=6fb692f7f116da3300853ca46962f8b5
+419435,Az Zarqa,http://api.openweathermap.org/data/2.5/weather?id=419435&APPID=6fb692f7f116da3300853ca46962f8b5
+2802106,Bertrix,http://api.openweathermap.org/data/2.5/weather?id=2802106&APPID=6fb692f7f116da3300853ca46962f8b5
+775594,Borek,http://api.openweathermap.org/data/2.5/weather?id=775594&APPID=6fb692f7f116da3300853ca46962f8b5
+6555064,Waldleiningen,http://api.openweathermap.org/data/2.5/weather?id=6555064&APPID=6fb692f7f116da3300853ca46962f8b5
+694554,Semysotka,http://api.openweathermap.org/data/2.5/weather?id=694554&APPID=6fb692f7f116da3300853ca46962f8b5
+1794715,Shuanghe,http://api.openweathermap.org/data/2.5/weather?id=1794715&APPID=6fb692f7f116da3300853ca46962f8b5
+6534555,Corte de Cortesi con Cignone,http://api.openweathermap.org/data/2.5/weather?id=6534555&APPID=6fb692f7f116da3300853ca46962f8b5
+6444209,Saint-Léger-de-Montbrun,http://api.openweathermap.org/data/2.5/weather?id=6444209&APPID=6fb692f7f116da3300853ca46962f8b5
+2772060,Maishofen,http://api.openweathermap.org/data/2.5/weather?id=2772060&APPID=6fb692f7f116da3300853ca46962f8b5
+664202,Unirea,http://api.openweathermap.org/data/2.5/weather?id=664202&APPID=6fb692f7f116da3300853ca46962f8b5
+3116422,Montanui,http://api.openweathermap.org/data/2.5/weather?id=3116422&APPID=6fb692f7f116da3300853ca46962f8b5
+1763070,Kampung Teluk Dalam,http://api.openweathermap.org/data/2.5/weather?id=1763070&APPID=6fb692f7f116da3300853ca46962f8b5
+3021941,Cuzorn,http://api.openweathermap.org/data/2.5/weather?id=3021941&APPID=6fb692f7f116da3300853ca46962f8b5
+1814852,Chuangang,http://api.openweathermap.org/data/2.5/weather?id=1814852&APPID=6fb692f7f116da3300853ca46962f8b5
+3170742,Pieve dOlmi,http://api.openweathermap.org/data/2.5/weather?id=3170742&APPID=6fb692f7f116da3300853ca46962f8b5
+5381515,Patterson,http://api.openweathermap.org/data/2.5/weather?id=5381515&APPID=6fb692f7f116da3300853ca46962f8b5
+7258211,Dover Base Housing,http://api.openweathermap.org/data/2.5/weather?id=7258211&APPID=6fb692f7f116da3300853ca46962f8b5
+2764783,Spitz,http://api.openweathermap.org/data/2.5/weather?id=2764783&APPID=6fb692f7f116da3300853ca46962f8b5
+3194802,Motovun,http://api.openweathermap.org/data/2.5/weather?id=3194802&APPID=6fb692f7f116da3300853ca46962f8b5
+2863359,Niederhausen,http://api.openweathermap.org/data/2.5/weather?id=2863359&APPID=6fb692f7f116da3300853ca46962f8b5
+2460755,Bafoulabe,http://api.openweathermap.org/data/2.5/weather?id=2460755&APPID=6fb692f7f116da3300853ca46962f8b5
+1457199,Ākhūndzādah Khēl,http://api.openweathermap.org/data/2.5/weather?id=1457199&APPID=6fb692f7f116da3300853ca46962f8b5
+5146282,Avon Center,http://api.openweathermap.org/data/2.5/weather?id=5146282&APPID=6fb692f7f116da3300853ca46962f8b5
+2874615,Mackenrode,http://api.openweathermap.org/data/2.5/weather?id=2874615&APPID=6fb692f7f116da3300853ca46962f8b5
+2903013,Hochstadt am Main,http://api.openweathermap.org/data/2.5/weather?id=2903013&APPID=6fb692f7f116da3300853ca46962f8b5
+6144618,Seymour Arm,http://api.openweathermap.org/data/2.5/weather?id=6144618&APPID=6fb692f7f116da3300853ca46962f8b5
+6549017,Kretzschau,http://api.openweathermap.org/data/2.5/weather?id=6549017&APPID=6fb692f7f116da3300853ca46962f8b5
+7849786,Babakankaret,http://api.openweathermap.org/data/2.5/weather?id=7849786&APPID=6fb692f7f116da3300853ca46962f8b5
+8073246,Kebonharjo,http://api.openweathermap.org/data/2.5/weather?id=8073246&APPID=6fb692f7f116da3300853ca46962f8b5
+1794064,Shangsongfan,http://api.openweathermap.org/data/2.5/weather?id=1794064&APPID=6fb692f7f116da3300853ca46962f8b5
+1785464,Zaoxi,http://api.openweathermap.org/data/2.5/weather?id=1785464&APPID=6fb692f7f116da3300853ca46962f8b5
+7298244,Kirmington,http://api.openweathermap.org/data/2.5/weather?id=7298244&APPID=6fb692f7f116da3300853ca46962f8b5
+1271616,Ganj Muradabad,http://api.openweathermap.org/data/2.5/weather?id=1271616&APPID=6fb692f7f116da3300853ca46962f8b5
+3042079,Ville des Quennevais,http://api.openweathermap.org/data/2.5/weather?id=3042079&APPID=6fb692f7f116da3300853ca46962f8b5
+3037682,Anduze,http://api.openweathermap.org/data/2.5/weather?id=3037682&APPID=6fb692f7f116da3300853ca46962f8b5
+6664186,Ereza,http://api.openweathermap.org/data/2.5/weather?id=6664186&APPID=6fb692f7f116da3300853ca46962f8b5
+2986102,Pont-Scorff,http://api.openweathermap.org/data/2.5/weather?id=2986102&APPID=6fb692f7f116da3300853ca46962f8b5
+5794098,Fairwood,http://api.openweathermap.org/data/2.5/weather?id=5794098&APPID=6fb692f7f116da3300853ca46962f8b5
+7732321,Bürdenbach-Bruchermühle,http://api.openweathermap.org/data/2.5/weather?id=7732321&APPID=6fb692f7f116da3300853ca46962f8b5
+866134,Hovtashen,http://api.openweathermap.org/data/2.5/weather?id=866134&APPID=6fb692f7f116da3300853ca46962f8b5
+2890273,Kirschau,http://api.openweathermap.org/data/2.5/weather?id=2890273&APPID=6fb692f7f116da3300853ca46962f8b5
+2634171,Wheatley,http://api.openweathermap.org/data/2.5/weather?id=2634171&APPID=6fb692f7f116da3300853ca46962f8b5
+1788365,Xisa,http://api.openweathermap.org/data/2.5/weather?id=1788365&APPID=6fb692f7f116da3300853ca46962f8b5
+6051768,Lefroy,http://api.openweathermap.org/data/2.5/weather?id=6051768&APPID=6fb692f7f116da3300853ca46962f8b5
+2828227,Steinen,http://api.openweathermap.org/data/2.5/weather?id=2828227&APPID=6fb692f7f116da3300853ca46962f8b5
